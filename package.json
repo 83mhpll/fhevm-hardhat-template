@@ -1,6 +1,6 @@
 {
-  "name": "fhevm-hardhat-template",
-  "description": "Hardhat-based template for developing FHEVM Solidity smart contracts",
+  "name": "secure-ai-evaluation",
+  "description": "Secure AI Evaluation - TrustVault AI Platform for Private AI Model Rating",
   "version": "0.1.0",
   "engines": {
     "node": ">=20",
@@ -13,15 +13,16 @@
     "url": "git+https://github.com/zama-ai/fhevm-hardhat-template.git"
   },
   "keywords": [
+    "trustvault",
+    "ai",
+    "rating",
+    "confidential",
     "fhevm",
     "zama",
-    "eth",
     "ethereum",
-    "dapps",
-    "wallet",
-    "web3",
-    "typescript",
-    "hardhat"
+    "privacy",
+    "encryption",
+    "web3"
   ],
   "dependencies": {
     "encrypted-types": "^0.0.4",

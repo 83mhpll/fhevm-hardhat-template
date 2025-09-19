@@ -1,0 +1,74 @@
+[
+  {
+    "name": "OpenAI GPT-4o",
+    "tags": ["text", "general", "conversation"],
+    "url": "https://openai.com/gpt-4o",
+    "address": "0x1234567890123456789012345678901234567890"
+  },
+  {
+    "name": "Claude 3.5 Sonnet",
+    "tags": ["text", "reasoning", "coding"],
+    "url": "https://anthropic.com/claude",
+    "address": "0x2345678901234567890123456789012345678901"
+  },
+  {
+    "name": "Gemini Pro",
+    "tags": ["multimodal", "vision", "text"],
+    "url": "https://ai.google.dev/gemini",
+    "address": "0x3456789012345678901234567890123456789012"
+  },
+  {
+    "name": "Llama 3.1 70B",
+    "tags": ["open-source", "text", "reasoning"],
+    "url": "https://llama.meta.com",
+    "address": "0x4567890123456789012345678901234567890123"
+  },
+  {
+    "name": "Mistral Large",
+    "tags": ["text", "multilingual", "reasoning"],
+    "url": "https://mistral.ai",
+    "address": "0x5678901234567890123456789012345678901234"
+  },
+  {
+    "name": "Cohere Command",
+    "tags": ["text", "enterprise", "safety"],
+    "url": "https://cohere.com",
+    "address": "0x6789012345678901234567890123456789012345"
+  },
+  {
+    "name": "PaLM 2",
+    "tags": ["text", "multilingual", "reasoning"],
+    "url": "https://ai.google.dev/palm",
+    "address": "0x7890123456789012345678901234567890123456"
+  },
+  {
+    "name": "Jurassic-2",
+    "tags": ["text", "creative", "writing"],
+    "url": "https://ai21.com",
+    "address": "0x8901234567890123456789012345678901234567"
+  },
+  {
+    "name": "GPT-3.5 Turbo",
+    "tags": ["text", "fast", "cost-effective"],
+    "url": "https://openai.com/gpt-3-5",
+    "address": "0x9012345678901234567890123456789012345678"
+  },
+  {
+    "name": "Codex",
+    "tags": ["coding", "programming", "code-generation"],
+    "url": "https://openai.com/codex",
+    "address": "0x0123456789012345678901234567890123456789"
+  },
+  {
+    "name": "DALL-E 3",
+    "tags": ["image", "generation", "art"],
+    "url": "https://openai.com/dall-e-3",
+    "address": "0x123456789012345678901234567890123456789a"
+  },
+  {
+    "name": "Midjourney",
+    "tags": ["image", "art", "creative"],
+    "url": "https://midjourney.com",
+    "address": "0x23456789012345678901234567890123456789ab"
+  }
+]
